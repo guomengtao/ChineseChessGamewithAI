@@ -58,4 +58,4 @@ npm run dev
 
 ## 贡献
 
-欢迎提交 Issue 和 Pull Request！
+欢迎提交 Issue 和 Pull Request
